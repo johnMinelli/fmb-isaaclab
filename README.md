@@ -53,8 +53,3 @@ The current public snapshot focuses on the environment and asset side of the ben
 - This repo is a simulation environment replication of FMB, not a copy of the full original benchmark codebase.
 - The exported config files still depend on external Isaac Lab modules and robot asset/config packages that are not bundled here.
 - Thanks to the [ARCH repository](https://github.com/Jiankai-Sun/ARCH), which helped inform the assembly-task setup and public release direction.
-
-## References
-
-- FMB: [rail-berkeley/fmb](https://github.com/rail-berkeley/fmb)
-- Stable Baselines3 DevKit: [iit-DLSLab/stable-baselines3-devkit](https://github.com/iit-DLSLab/stable-baselines3-devkit)
