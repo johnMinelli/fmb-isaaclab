@@ -58,4 +58,3 @@ The current public snapshot focuses on the environment and asset side of the ben
 
 - FMB: [rail-berkeley/fmb](https://github.com/rail-berkeley/fmb)
 - Stable Baselines3 DevKit: [iit-DLSLab/stable-baselines3-devkit](https://github.com/iit-DLSLab/stable-baselines3-devkit)
-- ARCH: [Jiankai-Sun/ARCH](https://github.com/Jiankai-Sun/ARCH)
